@@ -1,3 +1,9 @@
+# This project contains an E commerce website with rich UI user interface.
+
+# Contains two main pages : ProductListing and Cart
+
+# Have added alert messages for adding and removing the items.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
