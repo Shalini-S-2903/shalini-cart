@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shalini-cart/static/css/main.e2929282.css",
-    "main.js": "/shalini-cart/static/js/main.d3ff6b06.js",
+    "main.js": "/shalini-cart/static/js/main.d9a29fb4.js",
     "static/js/787.0f12b722.chunk.js": "/shalini-cart/static/js/787.0f12b722.chunk.js",
     "index.html": "/shalini-cart/index.html",
     "main.e2929282.css.map": "/shalini-cart/static/css/main.e2929282.css.map",
-    "main.d3ff6b06.js.map": "/shalini-cart/static/js/main.d3ff6b06.js.map",
+    "main.d9a29fb4.js.map": "/shalini-cart/static/js/main.d9a29fb4.js.map",
     "787.0f12b722.chunk.js.map": "/shalini-cart/static/js/787.0f12b722.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2929282.css",
-    "static/js/main.d3ff6b06.js"
+    "static/js/main.d9a29fb4.js"
   ]
 }
